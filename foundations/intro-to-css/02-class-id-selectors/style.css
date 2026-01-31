@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.a-class {
+  background-color: #fda3a9;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one-id {
+  color: rgb(0, 0, 167);
+  font-size: 36px;
+}
+
+#another-id {
+  background-color: hsl(127, 79%, 61%);
+  font-weight: bold;
+}
+
+.font-size-24 {
+  font-size: 24px;
+}
